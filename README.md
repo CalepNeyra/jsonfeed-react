@@ -19,5 +19,5 @@ Si deseas levantar este proyecto de forma local, sigue estos pasos:
 5. Abre la dirección `http://localhost:5173` en tu navegador.
 
 ## 🔗 Enlaces de entrega
-* **Deploy del Proyecto:** [Pega aquí tu enlace de Vercel]
+* **Deploy del Proyecto:** https://vercel.com/calepneyras-projects/jsonfeed-react
 * **Video Demostrativo:** [Pega aquí tu enlace de YouTube]
